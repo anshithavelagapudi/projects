@@ -1,0 +1,21 @@
+html5:
+	HyperTextMarkup Language-5
+	-->semantic elements:
+		header
+		nav
+		section
+		aside
+		footer
+	-->media elements
+		audio
+		video
+	-->web apis --> local storare, sessionstorage
+			geolocation api,
+			app cache
+
+block level elements
+	- it occupies entire row
+	-
+
+inline level elements
+	- 

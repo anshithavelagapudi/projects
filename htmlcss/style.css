@@ -1,0 +1,48 @@
+header {
+  text-align: center;
+  min-height: 90px;
+  border-bottom: 3px double green;
+}
+
+nav a {
+  font-size: 18px;
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+h1 {
+  color: blue;
+  font-weight: bold;
+}
+
+section {
+  min-height: 75vh;
+}
+
+footer {
+  text-align: center;
+  min-height: 30px;
+  border-top: 3px solid red;
+}
+
+footer {
+  opacity: 0.6;
+}
+
+section {
+  text-align: center;
+}
+
+body {
+  background-color: brown;
+}
+
+/*Media queries*/
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 768px) and (orientation:landscape) {
+  body {
+    background-color: pink;
+  }
+}
+
