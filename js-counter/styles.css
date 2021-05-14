@@ -1,0 +1,28 @@
+h1 {
+  color: black;
+  /* text-align: center; */
+}
+
+.btn {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  text-align: center;
+}
+.btn:hover {
+  color: white;
+  background-color: black;
+}
+#value {
+  text-align: "center";
+}
+.button-container {
+  text-align: "center";
+}
